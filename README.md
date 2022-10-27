@@ -3,7 +3,7 @@
 ## Présentation
 
 ceci est un prototype de projet en analyse de donnée
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malek-El/mini_projet_GLA/main?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malek-El/mini_projet_GLA/main?filepath=index.ipynb)
 
 ## :file_folder: Dataset
 
