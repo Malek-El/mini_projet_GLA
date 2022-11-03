@@ -7,6 +7,7 @@ ceci est un prototype de projet en analyse de donnée
 
 ## :file_folder: Dataset
 Spotify est un service de musique numérique, de balados et de vidéos qui vous donne un accès instantané à des millions de chansons et d'autres contenus de créateurs du monde entier.
+
 <img src='./img/logo.jpg' width="200" height="150">
 
 ## 🛠️ Built With
