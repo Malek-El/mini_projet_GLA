@@ -1,4 +1,4 @@
-# mini_projet_GLA
+# 🎧 Spotify Music Data 
 
 ## Présentation
 
@@ -7,7 +7,9 @@ ceci est un prototype de projet en analyse de donnée
 
 ## :file_folder: Dataset
 
-le data set contient des données dates
+
+## 🛠️ Built With
+
 <img src='./img/pandas.jpg' width=200px>
 
 ## Analyse
