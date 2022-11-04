@@ -24,4 +24,5 @@ On a utilisé les bibliothèques :
  -  *matplotlib.pyplot*  :Le module pyplot de matplotlib est l’un de ses principaux modules. Il regroupe un grand nombre de fonctions qui servent à créer des graphiques et les personnaliser (travailler sur les axes, le type de graphique, sa forme et même rajouter du texte). Avec lui, nous avons déjà de quoi faire de belles choses.
       <img src="./img/matplotlib.jpg" alt="" width="300" height="100">  
 
+## conclusion:
 
